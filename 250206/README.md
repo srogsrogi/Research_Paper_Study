@@ -52,7 +52,7 @@
 
   즉 저 말들은 일부만 가리는 것(MLM)과 전체를 가려보고 맞추는 것(RTD) 중 어느 부분이 더 효율적인가를 논하는 말들로, 전체를 학습하는 게 더 결과가 좋기 때문에 데이터의 크기가 크게 상관 없다는 뜻으로 해석된다.
 
-![image](https://github.com/user-attachments/assets/e642692c-4513-4e9a-87e7-86421e360ecb)
+  ![image](https://github.com/user-attachments/assets/e642692c-4513-4e9a-87e7-86421e360ecb)
 
 ---
 ### 소감
