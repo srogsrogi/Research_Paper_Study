@@ -54,9 +54,9 @@
 
   ![image](https://github.com/user-attachments/assets/e642692c-4513-4e9a-87e7-86421e360ecb)
 
-- 강한결
+- 강한결🐻  
   
-  🩷 받은 질문 : hidden vector에 Embedding/Positional/Segment Embedding값이 모두 더해져서 들어있는데도 모델이 각각의 의미를 이해하고 학습할 수 있는 이유는?
+  🤎 받은 질문 : hidden vector에 Embedding/Positional/Segment Embedding값이 모두 더해져서 들어있는데도 모델이 각각의 의미를 이해하고 학습할 수 있는 이유는?
   
      -> 답변 : word embedding은 -0.1~0.1, positional embedding은 sin, cos값, segment embedding은 정수값(1,2,3...)을 가지므로 다 더하더라도 embedding vector들이 각각의 영역을 갖게 되고 학습이 진행되면서 모델이 그것을 인식한다.
   
