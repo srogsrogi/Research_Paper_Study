@@ -2,7 +2,7 @@
 **발표일**: 2025.02.07
 ### Team 1
 - **Members**: 전민하, 조은비
-- 참고 논문: 
+- 참고 논문:  
 [Attention is All You Need](https://arxiv.org/pdf/1706.03762)
 
 ---
