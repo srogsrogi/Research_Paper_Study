@@ -35,7 +35,7 @@
 |       | What does bert learn about the structure of language    |
 |       | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding   |
 | 2주차 | Attention Is All You Need  |
-|       | BERT 변형모델              |
+|       | BERT 변형 모델              |
 | 3주차 | YOLO 모델별 비교   |
 |       | A Brief Survey of Deep Reinforcement Learning |
 | 4주차 | You Only Look Once: Unified, Real-Time Object Detection |
