@@ -1,12 +1,14 @@
-# Deep Learning 관련 논문 리딩 스터디
+# 📌 Deep Learning 관련 논문 리딩 스터디
+---
 
-## Team Members
+## 👥 Team Members
 - 강한결
 - 전민하
 - 조은비
 - 최수빈
+---
 
-## Team Rules
+## 📜 Rules
 
 1. **질문 및 답변 정리**
    - 질문자는 **질문 내용**과 **답변 내용**을 정리합니다.
@@ -22,3 +24,24 @@
 3. **질문 진행 방식**
    - 질문은 발표가 끝난 후에 진행합니다.
    - 답변이 잘 되지 않은 질문은 **다음 주 발표 때까지 준비**하여 다시 답변합니다.
+ 
+---
+
+## 📆 주차별 진행 내용
+
+| 주차  | 논문 제목 및 내용 |
+|-------|------------------------------|
+| 1주차 | Attention Is All You Need  |
+|       | What does bert learn about the structure of language    |
+|       | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding   |
+| 2주차 | Attention Is All You Need  |
+|       | BERT 변형모델              |
+| 3주차 | YOLO 모델별 비교   |
+|       | A Brief Survey of Deep Reinforcement Learning |
+| 4주차 | You Only Look Once: Unified, Real-Time Object Detection |
+|       | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning |
+|       | LLaMA: Open and Efficient Foundation Language Models |
+|       | Llama 2: Open Foundation and Fine-Tuned Chat Models |
+
+
+> 발표 자료 및 논문 정리는 각 폴더를 통해 확인 가능합니다.
