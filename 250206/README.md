@@ -9,7 +9,7 @@
 ## Team 2
 - **Members**: 강한결, 조수빈
 ### 참고 논문
-[ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
+[ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/pdf/2003.10555)
 
 ---
 ### 질의응답  
