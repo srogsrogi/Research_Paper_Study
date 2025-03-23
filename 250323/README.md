@@ -1,19 +1,19 @@
-4회차 논문 스터디
+# 4주차
+
+**발표일**: 2025.03.23
 
 ---
 
 # 전민하, 조은비
 
-참고 논문 : 
-
+참고 논문:  
 [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
 
 ---
 
 # 강한결, 최수빈
 
-참고 논문 : 
-
+참고 논문:   
 [deepseek-r1](https://arxiv.org/pdf/2501.12948)
 
 ---
