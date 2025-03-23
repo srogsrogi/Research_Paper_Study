@@ -9,7 +9,7 @@
 ### Team 2
 - **Members**: 강한결, 조수빈
 - 참고 논문:  
-  [BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+  [BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)  
   [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/pdf/1906.04341)
 
 ---
