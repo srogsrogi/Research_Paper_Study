@@ -3,7 +3,7 @@
 ## Team 1
 - **Members**: 전민하, 조은비
 ### 참고 논문
-[Attention is All You Need](https://arxiv.org/abs/1706.03762)
+[Attention is All You Need](https://arxiv.org/pdf/1706.03762)
 
 ---
 ## Team 2
