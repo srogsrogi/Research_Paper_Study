@@ -4,10 +4,6 @@
 
 전민하, 조은비
 
-참고 논문
-
-[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
-
 ---
 
 강한결, 최수빈
