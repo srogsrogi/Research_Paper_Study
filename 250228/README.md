@@ -10,7 +10,7 @@
 
 참고 논문
 
-[A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866)
+[A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866)
 
 ---
 
