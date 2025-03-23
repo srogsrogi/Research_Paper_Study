@@ -14,7 +14,9 @@
 # 강한결, 최수빈
 
 참고 논문:   
-[deepseek-r1](https://arxiv.org/pdf/2501.12948)
+[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)  
+[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971)  
+[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288)  
 
 ---
 
