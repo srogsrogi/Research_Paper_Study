@@ -11,7 +11,7 @@
 
 ---
 
-# 강한결, 조은비
+**강한결, 조은비**
 
 참고 논문:  
 [Learning representations by back-propagating errors](http://www.cs.utoronto.ca/~hinton/absps/naturebp.pdf)
