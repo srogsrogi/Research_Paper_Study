@@ -4,18 +4,17 @@
 
 ---
 
-# 강한결, 최수빈
-
-참고 논문:   
+# 주제
+## DeepSeek, LLaMA
+- 발표자: **강한결, 최수빈**  
+- 참고 논문:  
 [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)  
 [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971)  
 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288)  
 
----
-
-# 전민하, 조은비
-
-참고 논문:  
+## YOLO 
+- 발표자: **전민하, 조은비**  
+- 참고 논문:  
 [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
 
 ---
