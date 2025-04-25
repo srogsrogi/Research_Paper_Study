@@ -12,9 +12,10 @@
 
 ---
 
-**강한결, 조은비**
-
-참고 논문:  
+# 주제
+## 역전파  
+- 발표자: **강한결, 조은비**  
+- 참고 논문:  
 [Learning representations by back-propagating errors](http://www.cs.utoronto.ca/~hinton/absps/naturebp.pdf)
 
 ---
