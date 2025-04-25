@@ -6,8 +6,8 @@
 
 # 주제
 ## 생성형 AI(GPT-3)
-발표자: **전민하, 최수빈**  
-참고 논문:  
+- 발표자: **전민하, 최수빈**  
+- 참고 논문:  
 [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165)
 
 ---
