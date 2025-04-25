@@ -10,9 +10,6 @@
 - 참고 논문:  
 [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165)
 
----
-
-# 주제
 ## 역전파  
 - 발표자: **강한결, 조은비**  
 - 참고 논문:  
