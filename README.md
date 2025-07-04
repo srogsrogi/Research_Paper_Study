@@ -48,6 +48,9 @@ Deep Learning 관련 논문을 읽고 발표하며, 질의응답을 통해 깊�
 |       | Llama 2: Open Foundation and Fine-Tuned Chat Models |
 | 5주차 | Learning representations by back-propagating errors |
 |       | Language Models are Few-Shot Learners |
+| 6주차 | Learning representations by back-propagating errors |
+|       | Visual Instruction Tuning |
+
 
 
 > 원문 및 발표 자료는 각 폴더에서 확인 가능합니다.
